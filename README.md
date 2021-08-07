@@ -6,3 +6,10 @@
 
 + npm install
 + npm run start
+
+### Ссылка на сайт: https://podcat-app-17f57.web.app/
+
+Для авторизации:
++ логин: m@gmail.com
++ пароль: 123456
+
